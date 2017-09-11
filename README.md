@@ -6,4 +6,4 @@ RegisteredProviders.xlsx - list of NmrRegisterProvider and NmrRegisterClient cal
 
 RegisteredProviders.pdf - list of NmrRegisterProvider calls and parameters
 
-RegisteredClient.pdf - list of NmrRegisterClient calls and parameters
+RegisteredClients.pdf - list of NmrRegisterClient calls and parameters
